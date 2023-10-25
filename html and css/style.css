@@ -1,0 +1,31 @@
+.container{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.wrapper{
+    font-size: 0;
+
+}
+.content__block{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+.item{
+    width: 30%;
+    display: inline-block;
+    background-color: lightgray;
+    text-align: center;
+    border-color: brown;
+    font-size: 25px;
+
+}
+p {
+    font-family: sans-serif;
+    font-weight: bold;
+
+
+}
