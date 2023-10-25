@@ -15,12 +15,15 @@
 
 }
 .item{
-    width: 30%;
+    width: 25%;
     display: inline-block;
     background-color: lightgray;
     text-align: center;
-    border-color: brown;
     font-size: 25px;
+    box-sizing: border-box;
+    padding: 5px;
+    border: 1px solid #000;
+
 
 }
 p {
