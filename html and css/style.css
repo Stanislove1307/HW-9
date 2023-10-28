@@ -84,3 +84,33 @@ a{
     display: block;
     clear: both;
 }
+
+/*flexx box */
+
+.cotainer__flex{
+    width: 100px;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+.wrapper{
+    font-size: 0;
+}
+
+.content__flex{
+    margin: 100px;
+    max-width: 2000px;
+    background-color: #dcb8ad;
+
+
+}
+.item__flex{
+    display: inline-block;
+    padding: 50px;
+    border: 5px;
+    border: #d3c1c1;
+
+}
+li{
+    list-style-type: none;
+    padding: 5px;
+}
